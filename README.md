@@ -1,11 +1,11 @@
 <h1 align="center">Olá! 👋 Eu sou o Richard</h1>
-<h3 align="center">Um apaixonado por finanças e análise de dados</h3>
+<h3 align="center">xxxxxxxxxxxx</h3>
 
-- 🔭 Atualmente estou trabalhando em uma ferramenta de **cálculo de necessidade de MOD**
+- 🔭 xxxxxxxxxxxx**
 
-- 🌱 Estou aprofundando meu conhecimento em **SQL, Python, Power BI e Contabilidade Financeira**
+- 🌱 xxxxxxxxxxxxx**
 
-- 👯 E colaborando em um projeto de **otimização de cotação**
+- 👯 xxx **xxxxxx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
